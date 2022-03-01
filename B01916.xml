@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the merchants of London, in reference to the arrears of excise, stated and examined.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01916</idno>
+            <idno type="STC">Wing C1116A</idno>
+            <idno type="STC">ESTC R171014</idno>
+            <idno type="EEBO-CITATION">47012338</idno>
+            <idno type="OCLC">ocm 47012338</idno>
+            <idno type="VID">174302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174302)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2683:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the merchants of London, in reference to the arrears of excise, stated and examined.</title>
+               </titleStmt>
+               <extent>[7], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>Printed in the year 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  England --  London --  Early works to 1800.</term>
+               <term>Foreign trade regulation --  England --  London --  Early works to 1800.</term>
+               <term>Commercial policy --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174302:1"/>
+            <pb facs="tcp:174302:2" rendition="simple:additions"/>
+            <pb facs="tcp:174302:2" rendition="simple:additions"/>
+            <pb facs="tcp:174302:3"/>
+            <pb facs="tcp:174302:3"/>
+            <pb facs="tcp:174302:4"/>
+            <pb facs="tcp:174302:4"/>
+            <p>THE CASE OF THE MERCHANTS OF LONDON, In reference to the Arrears of Exciſe, <hi>Stated</hi> and <hi>Examined.</hi>
+            </p>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174302:5"/>
+            <pb n="1" facs="tcp:174302:5"/>
+            <head>The Caſe of the <hi>Merchants</hi> of <hi>London,</hi> in reference to the <hi>Arrears</hi> of <hi>Exciſe,</hi> Stated and Examined.</head>
+            <p>THe Exciſe of all Imported commodities by the ſeveral pretended Acts and Ordinances of Exciſe, made in the times of the late Uſurping Powers, was alwayes charged upon the firſt Buyer of the Commodity, and not upon the Mer<g ref="char:EOLhyphen"/>chant Importer. It being contrary both to the Na<g ref="char:EOLhyphen"/>ture of this Duty, and to the Intention of the Im<g ref="char:EOLhyphen"/>poſers themſelves, that the Merchant ſhould be any wiſe charged therewith. Foraſmuch as an Exciſe in its proper definition is a Tax intended to be impo<g ref="char:EOLhyphen"/>ſed upon ſo much only of the Commodities and Merchandizes of any Nation, as comes to Actual conſumption within it ſelf, which in the hand of the Merchant is not diſcernable: But when it is bought from the Merchant by the Shop-keeper, or Retailer, it is alwayes to be ſuppoſed to be for Do<g ref="char:EOLhyphen"/>meſtick conſumption and uſe.</p>
+            <p>And for this Special reaſon as well as for that it would have been a burthen both too heavy for the Merchant to undergo to pay both Cuſtom and Ex<g ref="char:EOLhyphen"/>ciſe, before he can fell his Commodity, and ſubject to great trouble and confuſion, by reaſon of his ex<g ref="char:EOLhyphen"/>portation
+<pb n="2" facs="tcp:174302:6"/>of much of the ſame Commodity again. The Powers that firſt Impoſed this Tax, did lay the ſame upon the firſt Buyer, and not upon the Mer<g ref="char:EOLhyphen"/>chant, as by the ſeveral Schedules of thoſe Goods, which by the ſaid Acts and Ordinances, were made Exciſeable, may fully appear. But for that by complyance between the Merchant and the firſt Buyer, the State (as they then called it) was ſubject to be much Defrauded of the ſaid Duties, by the clandeſtine ſale and delivery of Goods without the knowledge or cognizance of the Officers appointed to receive the ſame; Thereupon beſides the penal<g ref="char:EOLhyphen"/>ties in ſuch caſe enacted to be inflicted both upon the Buyer and Seller in caſe of ſuch clandeſtine ſale and delivery of Goods, it was thought fit for the better prevention of ſuch fraudes to hold the Mer<g ref="char:EOLhyphen"/>chant-Importer to an annual Accompt for the quantity only of his Goods Imported, whereby to diſcover how, and to whom he had diſpoſed them.</p>
+            <p>And therefore by an Article in that pretended Act made in the year, 1649. for the ſettlement of the Exciſe, it was enacted among other things, <hi>viz.</hi> Article 17. <hi>That no Merchant or Importer of Goods or Merchandize from beyond the Seas, ſhould Land or cauſe the ſame, or any part thereof, to be Landed or put on ſhore, before due entry were made thereof under his hand with the Officer of Exciſe (in that behalf appointed) at the Cuſtom-houſe of the ſame Port where the Goods were firſt Imported; and that under a ſevere penalty.</hi>
+            </p>
+            <p>And it was the duty of this Officer dayly to deli<g ref="char:EOLhyphen"/>ver
+<pb n="3" facs="tcp:174302:6"/>into the Exciſe Office, all ſuch Entries as he re<g ref="char:EOLhyphen"/>ceived; which were there fairly regiſtred by way of Accompt, under every Merchants particular head, and the Accompt again diſcharged ſtill as the Goods came to be ſold. And it was penal for any Merchant to ſell or deliver any Goods without a ticket from the Exciſe office. And likewiſe to the end that ſuch diſcovery as aforeſaid, might be the better made, and the Merchants Import Accompt examined for that purpoſe, by another Article of the ſame Act, <hi>viz.</hi> Article 25. <hi>The Commiſsioners and Sub-Commiſsioners of Exciſe in their reſpective Diviſions, had power, once in twelve Moneths, or oftner, if they ſaw cauſe, to ſummon every Mer<g ref="char:EOLhyphen"/>chant in their reſpective Diviſions to give an Ac<g ref="char:EOLhyphen"/>compt, under his hand, of what Foraign Goods Ex<g ref="char:EOLhyphen"/>ciſeable, he had then in his hands: which Accompt, if he refuſed or neglected to give in, by the ſpace of</hi> 28 <hi>dayes, it was Enacted</hi> (by way of puniſhment, for ſuch his Neglect) <hi>That he ſhould be lyable to pay the full Exciſe for all ſuch Goods as he then ſtood charged with by his Entries in the Books of the Ex<g ref="char:EOLhyphen"/>ciſe Office, which were not before diſcharged by Sales and Deliveries, for which Tickets had been given out of the Office, and accordingly ſhould be adjudged to pay the ſame.</hi>
+            </p>
+            <p>Which Judgement had two apparent operati<g ref="char:EOLhyphen"/>ons (though never rightly underſtood by moſt of thoſe that were to put the ſame in execution) that is to ſay:</p>
+            <p>Firſt, that it made him lyable to pay the Exciſe himſelf for all ſuch Goods as then ſtood un<g ref="char:EOLhyphen"/>diſcharged
+<pb n="4" facs="tcp:174302:7"/>in his Accompt, as aforeſaid, which otherwayes for the reaſons above-mentioned he had not been lyable to.</p>
+            <p>And ſecondly, That it excluded him from all al<g ref="char:EOLhyphen"/>lowances for Goods exported again, or remain<g ref="char:EOLhyphen"/>ing in his hands, or for Leakage, Waſte, Tret and Tare, and the like, which otherwiſe were to be allowed.</p>
+            <p>And in execution of this Judgment, the Commiſſi<g ref="char:EOLhyphen"/>oners had a ſpecial power given them by the ſame Article to warn him to pay in ſuch Sum, as the Ex<g ref="char:EOLhyphen"/>ciſe amounted unto by the ſaid Judgment; which if he did not do within 14. dayes after ſuch warning, they were further impowred to levy double the va<g ref="char:EOLhyphen"/>lue upon his Goods and Chattels by way of Diſtreſs, and for want of ſufficient Diſtreſs to Impriſon his perſon.</p>
+            <p>But if within 28. dayes after ſummons, the Mer<g ref="char:EOLhyphen"/>chant gave in ſuch Accompt of his Reſt, then the Commiſſioners being firſt ſatisfied of the truth of ſuch Reſt, had power to adjuſt his Accompts with<g ref="char:EOLhyphen"/>out demanding any Exciſe of him for any of the ſaid Goods, other then for ſuch as by the ſaid Ac<g ref="char:EOLhyphen"/>compt ſhould be diſcovered to have been ſold and delivered by him to the firſt Buyer without notice given to the Office. In the caſting up of which, the Merchant was likewiſe to have allowance for the waſte and leakage of Wines, Oyls, and the like, as by the very next Article of the ſame Act appears.</p>
+            <p>And this was all that the Merchant-Importer was concerned in as to point of payment; but it was no where ſaid, either in that, or any other of thoſe
+<pb n="5" facs="tcp:174302:7"/>pretended Acts, or Ordinances, for the Exciſe, that the Duty ſhould Originally lie upon the Merchant. So then, it is clear, That even in the time of thoſe uſurping Powers, when thoſe pretended Acts and Ordinances were ſuppoſed to be in full force, the Merchant-Importer could no way come to be charged with the payment of any Exciſe, but either by Judgment upon his Default, which was in the na<g ref="char:EOLhyphen"/>ture of a Penalty, or by an Accompt actually agreed upon, adjuſted and ſtated on both ſides.</p>
+            <p>But upon his Majeſties moſt happy reſtauration and return to the poſſeſſion and exerciſe of his Roy<g ref="char:EOLhyphen"/>al Power and Dignity, all thoſe pretended Acts and Ordinances, and all proceedings thereupon fell to the ground, and became utterly void of themſelves, as not being made by any legal Authority whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>Nevertheleſs, in the Parliament begun at <hi>Weſt-minſter,</hi> the 25<hi rend="sup">th</hi> day of <hi>April,</hi> in the 12<hi rend="sup">th</hi> year of his Majeſties reign, two Acts were made for continuing the Impoſition of Exciſe: the one from the 24<hi rend="sup">th</hi> of <hi>June,</hi> 1660. to the 20<hi rend="sup">th</hi> day of <hi>Auguſt</hi> in the ſame year; and the other from the ſaid 20<hi rend="sup">th</hi> day of <hi>Auguſt</hi> to the 25<hi rend="sup">th</hi> of <hi>December</hi> following. By both which Acts it was enacted among other things, that the ſaid Impoſition, together with all Arrears thereof, ſhould be continued to be collected, levy<g ref="char:EOLhyphen"/>ed and paid during thoſe reſpective Periods accord<g ref="char:EOLhyphen"/>ing unto, and after, the ſame Rates, Rules, and Pro<g ref="char:EOLhyphen"/>portions, and upon the ſame Goods and Commodi<g ref="char:EOLhyphen"/>ties, as the ſame was payable and collected the ſaid 25<hi rend="sup">th</hi> day of <hi>April,</hi> 1660. With a Proviſo never<g ref="char:EOLhyphen"/>theleſs,
+<pb n="6" facs="tcp:174302:8"/>That all ſorts of Oyls, Wines, Tobacco's of the <hi>Engliſh</hi> Plantations, Silks, Linnens, and divers other Commodities therein particularly named, ſhould after, the 24<hi rend="sup">th</hi> 
+               <hi>July,</hi> 1660. be wholly diſchar<g ref="char:EOLhyphen"/>ged of the duty of Exciſe.</p>
+            <p>By vertue of theſe two Acts, and during the time of their being in force, the Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe for the time then being, ſuppoſing that the Powers given them by the ſaid pretended Act of the year 1649. were thereby continued; did ſummon in divers Merchants of the City of <hi>London,</hi> to give in an Accompt of their reſpective Reſts, according to the Article above mentioned, ſome of whom did accordingly appear, and gave in ſuch Accompts; but the ſaid Commiſſioners never proceeded to any adjuſtment with any of thoſe, but left their Ac<g ref="char:EOLhyphen"/>compts depending, when the Exciſe upon forreign Goods fell. But divers other of the ſaid Merchants committed default, and never gave in any Reſt at all; and againſt theſe it is ſaid, the Commiſſioners of Exciſe proceeded according to the ſaid 25<hi rend="sup">th</hi> Article, and made up their Accompts, as they ſtood charged in the Books of Exciſe by their Entries, and againſt every default, or moſt of them entered Judgement for the Sum, and made Demand thereof, but pro<g ref="char:EOLhyphen"/>ceeded no further, as to the levying either the ſingle or the double value of the ſaid ſums, or any of them, upon the refuſers or neglecters of payment.</p>
+            <p>But there were many other Merchants, that were never ſummon'd at all to give in any Accompt of their Reſt, and ſo fell not either within the one, or the other of the two former capacities; that is to
+<pb n="7" facs="tcp:174302:8"/>ſay, had neither Judgements paſſed againſt them by the Commiſſioners of Exciſe, nor Accompts depend<g ref="char:EOLhyphen"/>ing, when the Exciſe of Forreign Goods ceaſed.</p>
+            <p>So then the Merchants of <hi>London,</hi> as to this caſe of pretended Arrears of Exciſe, are to be conſidered in theſe three capacities, <hi>viz.</hi>
+            </p>
+            <p>Thoſe againſt whom Judgement was entered, upon default of giving in their Reſts.</p>
+            <p>Thoſe who gave in their Reſts, and had their Accompts depending unadjuſted.</p>
+            <p>And thoſe that were never ſummoned at all, before the ceaſing of the Forreign Exciſe.</p>
+            <p>Since which time, <hi>viz.</hi> in this preſent Parliament an Act is made for veſting the Arrears of the Ex<g ref="char:EOLhyphen"/>ciſe and New-Impoſt in general in his Majeſtie. Whereby among other things, his Majeſty is enabled to ſue for, and recover the ſame of every perſon and perſons, their Heirs, Executors, and Adminiſtra<g ref="char:EOLhyphen"/>tors, having Aſſets, who are any way accomptable for the ſame, as if the ſame Duties of Exciſe had been lawfully Impoſed, and as if the ſeveral pretend<g ref="char:EOLhyphen"/>ed Acts and Ordinances impoſing the ſame had been good and legal Acts of Parliament, and had in ex<g ref="char:EOLhyphen"/>preſs words granted the ſame to the King.</p>
+            <p>And it having been ſuggeſted, that there are vaſt Arrears of Exciſe ſtanding out in the hands of the Merchants of <hi>London,</hi> which by vertue of this Act are now recoverable to his Majeſty, and thereupon ſeveral Informations being exhibited againſt ſeveral of the ſaid Merchants within every of the ſaid three capacities; Leſt the apprehenſion of ſo great a ſum to be raiſed by this means ſhould divert or delay the Parliaments intentions in providing for his Majeſties
+<pb n="8" facs="tcp:174302:9"/>ſupply otherwiſe. It will not be amiſs to examine firſt, whether all, or any of the ſaid Merchants can be chargeable with any ſuch Arrears at all.</p>
+            <p>And ſecondly, admitting them not only chargeable, but that the Arrears were actually recovered, of what value they will be like to be in his Majeſties purſe.</p>
+            <p>As to the Merchants of the two laſt capacities, <hi>viz.</hi> thoſe whoſe Accompt were depending, and thoſe who never were ſummoned; I ſuppoſe, it will be eaſily granted from what hath been before truly ſtated, that neither originally as Importers, nor by any Act, ordefault of their own, nor by any Accompt ſtated before the ceaſing of the Forreign Duty, they were anſwerable for any Exciſe at all. And then the queſtion concerning thoſe two ſorts will on<g ref="char:EOLhyphen"/>ly be, Whether the Act by which his Majeſty is in<g ref="char:EOLhyphen"/>veſted as aforeſaid, hath ſince made them accompta<g ref="char:EOLhyphen"/>ble for the ſame, or not.</p>
+            <p>And it is humbly conceived, it hath not: For al<g ref="char:EOLhyphen"/>though his Majeſty be thereby inveſted, with all Ar<g ref="char:EOLhyphen"/>rears of Exciſe in general words, yet it is ſo far from making any perſon accomptable for the ſame, that was not accomptable before; that it rather reſtrains the power it gives his Majeſty, to recover ſuch Ar<g ref="char:EOLhyphen"/>rears to ſuch perſon or perſons only, who at the time of the paſſing of the ſaid Act were accomptable for the ſame. Neither doth it make or declare any thing an Arrear of Exciſe, that was not then an Arrear by ſome of the former pretended Laws of Exciſe. And although Informations may poſſibly be exhibited againſt ſome of both theſe two ſorts, as well as againſt the other; yet it is to be ſuppoſed, that this hath proceeded either of the miſtake of
+<pb n="9" facs="tcp:174302:9"/>thoſe who certified them Debtors, or elſe perhaps of deſign to endure them for fear of trouble, to come in and ſubmit to an Accompt, which by the Law they are not now lyable unto.</p>
+            <p>The only remaining queſtion therefore, in which there is any ſeeming doubt, or difficulty, will be concerning thoſe againſt whom for default of giving in an Accompt of their reſpective Reſts, Judgements have been actually paſſed and enregiſtred in the Office of Exciſe before the Exciſe of Forreign Goods fell to the ground, <hi>viz.</hi> Whether the reſpective ſums of Mony thereby adjudged againſt them, ſhall be accompted ſuch Sums or Debts of Exciſe as are intended in the ſaid Act of Inveſture. And if they ſhall, and that nothing be to be pleaded in barr of his Majeſties demand thereof, upon what evidence they ſhall be recoverable.</p>
+            <p>That no Exciſe was originally chargeable upon the Merchant by vertue of his Entries at the Cuſtom-houſe, hath been already ſhewn, and I ſuppoſe, will not be de<g ref="char:EOLhyphen"/>nyed; it being always payable by the firſt Buyer, and not by the Importer. It will follow then, that if any of thoſe ſums, ſo adjudged, be due, they muſt be due by ver<g ref="char:EOLhyphen"/>tue of the Judgments themſelves, or not at all. And then the validity of thoſe Judgments will be to be examined. Now to make a Judgment good and valid in Law;</p>
+            <p>Firſt, there muſt be ſome Law, Cuſtom, or Statute in force at the time of the paſſing thereof, upon which it muſt be grounded. Secondly, The Judges muſt be rightly and duly conſtituted, and muſt have ſufficient Authority and Juriſdiction of the thing upon which the Judgment is made. And thirdly, the Judgment it ſelf muſt be matter of Record, againſt which, no Averrment can be, and if it be defective in any of theſe, the Judgment is utterly void and null.</p>
+            <pb n="10" facs="tcp:174302:10"/>
+            <p> But that the pretended Judgments above mentioned are defective in all three, I conceive it will not be hard to manifeſt. For firſt, it will not be denyed, but that all thoſe pretended Acts and Ordinances for the ſetting up and eſtabliſhing of an Exciſe in the times of the uſurping Powers, and amongſt the reſt, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the 14<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1649. (upon which the ſaid Judgment muſt be grounded if upon any were in themſelves void <hi>ab in itio:</hi> And could have no legal force, eſpecially after his Majeſtie's happy reſtauration, unleſs they had been ſet up and made valid by Act of Parliament, which I conceive under favour, they never were.</p>
+            <p>For although it be true, that in the Parliament begun at <hi>Weſtminſter</hi> the 25<hi rend="sup">th</hi> day of <hi>April,</hi> 1660. two ſhorts Acts were made for the continuance of the Exciſe, the one from the 24<hi rend="sup">t•</hi> day of <hi>June,</hi> 1660. to the 20<hi rend="sup">th</hi> of <hi>Aug.</hi> following, and the other from thence to the 25<hi rend="sup">th</hi> of <hi>Decemb.</hi> follow<g ref="char:EOLhyphen"/>ing; in both which it was enacted, That the ſaid Impoſiti<g ref="char:EOLhyphen"/>on together with all Arrears thereof ſhould continue to be collected and paid according unto and after the rates, rules, and proportions, as the ſame was payable and col<g ref="char:EOLhyphen"/>lected the 25<hi rend="sup">•h</hi> day of <hi>April,</hi> 1660. yet, under correction, I conceive, that thoſe words did not ſet up, nor make valid the ſaid pretended Act of the 14<hi rend="sup">th</hi> of <hi>Aug.</hi> 1649, nor any other of thoſe pretended Acts or Ordinances, for that no Act or Statute can be continued, confirmed, or revived, (much leſs originally ſet up and made an Act, being none before) without ſpecial words to that purpoſe. And in this particular, if it ſhould be admitted, that the words, <hi>Rates, Rules,</hi> and <hi>Proportions,</hi> ſhould intend a ſetting up of thoſe pretended Acts themſelves, it muſt follow, they muſt be either intirely ſet up that is to ſay, the whole Acts in the very words they are penned, or but in part. If entirely,
+<pb n="11" facs="tcp:174302:10"/>then that part of the ſaid Act of the 14<hi rend="sup">th</hi> of <hi>Aug.</hi> 1649. which obliged all Commiſſioners, &amp; Sub-commiſſioners, to take an Oath to be true and faithful to the Common-wealth of <hi>England,</hi> as it ſtood then pretended to be eſta<g ref="char:EOLhyphen"/>bliſhed without a King or Houſe of Lords, &amp; many other like abſurdities had been by conſequence thereby likewiſe eſtabliſhed, which no body will be ſo weak as to admit.</p>
+            <p>But if it ſhall be ſaid, That they were ſet up but in part, then thoſe particular parts ſo intended to be ſet up, muſt have been ſpecially mentioned and diſtinguiſhed, which here they were not. I conclude therefore, that neither in part, nor in the whole, any of the ſaid pretended Acts or Ordinances were thereby put in force. And if ſo, the whole force of the 25 Article of the 14<hi rend="sup">th</hi> 
+               <hi>Aug.</hi> 1649. upon which the ſaid Judgments were grounded was at the time of the paſſing of the ſaid Judgment utterly void and of none effect. And the Merchant-Importer not being originally chargeable either by his Entries, or otherwiſe, with the payment of any Exciſe for his Goods, could not by any Judgment grounded upon that Act be made lya<g ref="char:EOLhyphen"/>ble thereunto.</p>
+            <p>And as to the ſecond, which concerns the Authority of the ſaid pretended Judges it will likewiſe follow, that that was none at all, as to point of giving Judgment upon any default: for in the firſt of the two Acts of Parliament a<g ref="char:EOLhyphen"/>bove mentioned, no perſons at all are conſtituted Com<g ref="char:EOLhyphen"/>miſſioners for the Exciſe. And by the ſecond, though <hi>Na<g ref="char:EOLhyphen"/>thaniel Manton,</hi> and others therein named, are appointed Commiſſioners, yet they have thereby no other power given them, but only to collect and receive the ſaid duties according to the former rates and rules, without any Au<g ref="char:EOLhyphen"/>thority at all to put any of the ſaid pretended Acts or Or<g ref="char:EOLhyphen"/>dinances in execution in caſe of offence or diſobedience to the ſame.</p>
+            <pb n="12" facs="tcp:174302:11"/>
+            <p> And as to the laſt point, <hi>viz.</hi> Whether the ſaid Judg<g ref="char:EOLhyphen"/>ments be matter of Record or not, I ſhall need to ſay little, unleſs any man ſhall firſt ſhew me by what Act or Statute, the ſaid <hi>Nathaniel Manton,</hi> and the reſt of the Gentlemen in the ſaid Act named, are conſtituted a Court of Record, or that they had antient Juriſdiction by the Common Law; until When, I conceive, I may ſave both my ſelf and the Reader the trouble of that Argument.</p>
+            <p>Now for the value of theſe ſuppoſed Arrears to his Majeſty, if they were Juſtly recoverable (as I conceive they are not) it will be found, upon examination, to be very ſmall and inconſiderable, and not worthy ſo great an <hi>Odium</hi> and diſcontent, as the very attempt of enforcing the Merchant to pay them, hath already provoked. For although I have heard they have been repreſented to amount to, at leaſt, an hundred and fifty thouſand pounds, yet it is to be conſidered, that the eſtimate thereof is taken only from the Books of the late Exciſe Office, as they ſtand charged with the Merchants Entries, before any adjuſtment made: Upon which,</p>
+            <p>Firſt, no allowance is yet given them for goods Ex<g ref="char:EOLhyphen"/>ported by the Merchant again, which will be found to be very great quantities.</p>
+            <p>Secondly, there are thouſands of Entries that will be utterly diſowned, by the perſons upon whoſe particular Accompts they are put, it being a moſt uſual and com<g ref="char:EOLhyphen"/>mon practiſe, in thoſe dayes, for one Merchant to enter Goods in another mans name, ſometimes by conſent be<g ref="char:EOLhyphen"/>tween them, and ſometimes without conſent, which was done on purpoſe to confound Accompts, and render it impoſſible for the Commiſſioners ever to prove them, and conſequently to make any true Judgment upon them.</p>
+            <pb n="13" facs="tcp:174302:11" rendition="simple:additions"/>
+            <p> Thirdly, there have been no allowances yet made upon thoſe Accompts for Leakage, or Waſt of the Commodi<g ref="char:EOLhyphen"/>ty; which in Wines, Oyles, Vinegers, Brandies, and ſuch like, hath been very great, eſpecially in Wines, the Merchant being alwayes charged in the Exciſe Office, with the entire quantity, or contents of the number of Cask Entered without any allowance for Outs, Leakage, or other Deductions, which are always allowed upon pay<g ref="char:EOLhyphen"/>ment of the Cuſtoms. And the greateſt part of thoſe pre<g ref="char:EOLhyphen"/>tended Arrears, at leaſt the greateſt ſums, are pretended to be due from the Wine-Merchants.</p>
+            <p>Fourthly, during ſome part of that very time for which thoſe Accompts are to be made up, the Exciſe was by an Act of the ſame Uſurping Powers themſelves, that ſet it up, in effect, wholly thrown down again or at leaſt ſuſ<g ref="char:EOLhyphen"/>pended. For on the 11<hi rend="sup">th.</hi> of <hi>October,</hi> 1659. the Rump-Parliament, which was reſtored to their ſitting but in <hi>May</hi> then preceding, foreſeeing they ſhould be outed a<g ref="char:EOLhyphen"/>gain by <hi>Lambert</hi> (as within two dayes after they were) to prevent him from raiſing Money to pay his Army, made an Act, by which it was declared High-Treaſon to levy Cuſtoms, or Exciſe, or any other Tax upon the people. And during all the time of that Excluſion, until their ſecond reſtitution (which was about two Moneths or more the Exciſe was underſtood on all hands to be quite down, and all Commodities were bought and ſold Duty-free. And a very great part of thoſe very Goods, for the Exciſe whereof the Merchant now ſtands charged in Arrear, were bought and ſold within that very time.</p>
+            <p>Fiftly, it appears not what quantities of the ſame Goods, the Merchant had remaining upon his hands un<g ref="char:EOLhyphen"/>ſold, at the time when the Exciſe of Foreign Commodi<g ref="char:EOLhyphen"/>ties fell; all which ſeveral particulars muſt be allowed
+<pb n="14" facs="tcp:174302:12"/>and deducted, in caſe the Merchant were liable to pay the reſt (as indeed he is not.) And then this great bulk of Merchants Arrears, of which ſo great a noiſe hath been made, will appear to be but a Cuckow, whoſe body in the feathers ſeems to be as big as a Kite, but being pulled, is not ſo big as a Sparrow.</p>
+            <p>To manifeſt which yet a little further, it is moſt true in fact, that divers Merchants ſtanding charged, accor<g ref="char:EOLhyphen"/>ding to the Books of the Exciſe Office, with very great ſums, in pretended Arrear, having been, by the Exchequer proceſs lately ſent againſt them, frighted into a ſubmiſſi<g ref="char:EOLhyphen"/>on to Accompt, in the Exciſe Office, have come off and cleared the whole for half as many ſhillings, as they ſtood Charged with pounds.</p>
+            <p>Which ſeveral particulars are offered to publick conſi<g ref="char:EOLhyphen"/>deration by a Well-wiſher, as well to his Majeſties Re<g ref="char:EOLhyphen"/>venue, at to the Merchants of <hi>London,</hi> with no other De<g ref="char:EOLhyphen"/>ſign; but, Firſt, that the opinion of the Juſtneſs and Re<g ref="char:EOLhyphen"/>coverableneſs of ſo great a ſum (as theſe Arrears have been noiſed to be) may not ſo far be relyed upon, as to prejudice his Majeſty in point of proviſion otherwiſe, now a Parliament is ſitting, and hath the Revenue in con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <p>And, Secondly, that in caſe any endevours ſhall be uſed (as is reported there are) to procure any Act, or croud in any Clauſe, or Proviſo, into any Act, that ſhall look back upon the Mercants-Importers, to declare or make them liable to Ac<g ref="char:EOLhyphen"/>compt, for matters ſo long paſt; or to make them liable to the payment of that as an Arrear, which they were never liable to pay even in the Uſurping times, as a Duty; it may be conſide<g ref="char:EOLhyphen"/>red by thoſe to whom it ſhall appertain, Whether it will be at all for his Majeſties ſervice; or agreeable to equity and right rea<g ref="char:EOLhyphen"/>ſon, ſeeing the whole matter will be <hi>Ex poſt facto:</hi> and that the diſcouragements upon Trade are already too Many.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174302:12"/>
+            <pb facs="tcp:174302:13"/>
+            <pb facs="tcp:174302:13"/>
+            <pb facs="tcp:174302:14"/>
+            <pb facs="tcp:174302:14"/>
+            <pb facs="tcp:174302:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
